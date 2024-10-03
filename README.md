@@ -26,10 +26,10 @@ My First Project Demo
 
 Uttar Pradesh Power Corporation Limited has invited online applications from eligible candidates to fill the post of Assistant Accountant. According to the UPPCL Notification, a total number of 113 vacancies have been allocated for Assistant Accountant posts. Therefore, aspirants who are looking forward to the Uttar Pradesh State Govt Jobs can apply online. Aspirants can check this page to get all important details regarding the Uttar Pradesh Assistant Accountant Vacancy 2024.
 
-About UPPCL Vacancy 2024 :
+About UPPCL Vacancy 2024 :***
 
 issued Date of recruitment notification: Coming</p><hr>
-<h4 style="text-align:center">👇FILL FORM HERE 👇</h4><hr>
+<h4 style="text-align:center">👇 FILL FORM HERE 👇</h4><hr>
 <h1 style="text-align:center;"><a style="color:green;"><u> UPPCL Vacancy 2024 fill form </u> </a></h1>
 <form>
      Usear: First Name : <input type="text" name="username">
