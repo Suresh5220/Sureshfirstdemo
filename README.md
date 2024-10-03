@@ -11,6 +11,7 @@ My First Project Demo
 <table>
       <ul style="list-style:none; display:flex; gap:40px" style="text-align:center">
      <li>Home</li>
+	 <li>About US</li>
 	 <li>Energy Saving Tips</li>
 	 <li>Polices</li>
 	 <li>Tender Information</li>
